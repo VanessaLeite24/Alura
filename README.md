@@ -2,7 +2,7 @@
 
 Meu nome é Vanessa Leite :)
 
-- Estou estudando na Alura.
+- Estou estudando na [Alura](https://alura.com.br).
 - Estou me desenvolvendo na Linguagem Javascript.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
